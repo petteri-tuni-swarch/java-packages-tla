@@ -37,4 +37,8 @@ $ cd dependent
 $ java -jar target/dependent-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
+# Links
+
+* http://tutorials.jenkov.com/maven/maven-tutorial.html
+
 
